@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! This website showcases my projects, skills, and professional journey as a developer.
 
 ## 🔗 Live Demo
-[Visit Portfolio](https://your-portfolio-link.com)  
+[Visit Portfolio](https://shrishti-portfolio0.netlify.app/) 
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js  
